@@ -7,6 +7,7 @@
 class Cuadrado : public Geometria {
 public:
     float getDiagonal();
+    
 
 };
 
